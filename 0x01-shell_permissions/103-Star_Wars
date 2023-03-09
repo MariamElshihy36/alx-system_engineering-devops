@@ -1,0 +1,2 @@
+#!/bin/bash
+telnet tow`el.blinkenlights.nl
